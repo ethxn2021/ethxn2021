@@ -1,4 +1,5 @@
-👋 Hi, I’m @ethxn2021
+👋 Hi, I'm Pythonwithsean
+👋 Hi, I’m Ethxn2021
 
 I'm a self-taught software developer with experience in TypeScript, Python, React and more. 
 I'm highly motivated and detail-oriented,knowledgeable about creating dynamic user 
